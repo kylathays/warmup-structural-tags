@@ -1,0 +1,30 @@
+html {
+    font-family: "Courgette";
+}
+
+
+body {
+    margin: 0;
+}
+
+
+.site-header {
+    background-color:#eee;
+    padding: 30px;  
+    color:blueviolet
+}
+
+.main-content {
+    margin: 30px;
+}
+
+.site-footer {
+    background-color: rgb(53, 114, 70);
+    padding: 30px;
+    color:#eee;
+}
+
+.footer-link {
+    color: #eee;
+
+}
